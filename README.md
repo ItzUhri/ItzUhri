@@ -1,6 +1,6 @@
 👋 Hi, I'm Uhri Kenji Canave
-💻 I’m currently learning the React-Native
-📚 I'm learning How to be Software Engineer 
+💻 I’m currently learning how to be a fullstack developer
+📚 I'm learning How to be Software Engineer / game developer
 <!--
 **ItzUhri/ItzUhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
